@@ -19,9 +19,3 @@ Sentetik İHA/SİHA telemetri verileri üzerinde Apache Spark tabanlı yıldız 
 | infra/ | Docker ile Spark kümesi ve PostgreSQL |
 | docs/ | Deney günlüğü ve ortam bilgileri |
 | results/ | Ölçüm sonuçları |
-
-## Ekip
-
-- Betül Yıldırım (Proje Yürütücüsü)
-- Mukadder Bölükbaşı (Araştırmacı)
-- Danışman: Beste Kaysı
